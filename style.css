@@ -1,0 +1,435 @@
+.bg1{
+    width: 100%;
+    height: 596px;
+    background-color: rgb(135,80,156);
+    margin-top: -21px;
+}
+/*menu and logo start*/
+.header{
+    width: 80%;
+    margin-left: 200px;
+    
+
+}
+.logo{
+width: 25%;
+float: left;
+margin-top: 60px;
+}
+.menu{
+width: 65%;
+float: right;
+margin-top: 39px;
+}
+.menu ul{
+list-style: none;
+
+}
+.menu ul li a{
+    display: block;
+    margin: 10px;
+    padding: 10px;
+    color: #EAE5ED;
+    text-decoration: none;
+    float: left;
+    font-family: "Titillium Web",sans-serif;
+    font-weight: normal;
+    font-size: 16pt;
+}
+.menu ul li:hover a{
+    background-color: #643A79;
+    border-radius: 5px;
+}
+/*menu and logo end*/
+
+.bg1 h1 {
+    padding: 265px 0px 0px 0px;
+    color: #EAE5ED;
+    font-family: sans-serif,"TitilliumWeb-Bolt.ttf";
+    text-align: center;
+    
+}
+.button{
+    margin-left: 525px;
+    
+}
+/*bg1 end*/
+
+
+.bg2{
+    width: 100%;
+    height: 747px;
+    background-color: rgb(23,194,164);
+}
+.text{
+    width: 100%;
+color: #EAE5ED;
+text-align: center;
+padding: 59px 0px 0px 0px;
+font-family: "Titillium Web",sans-serif;
+font-weight: normal;
+}
+
+.line2{
+    width: 87px;
+    height: 4px;
+    background-color: #14A58C;
+}
+.services{
+width: 100%;
+margin-top: 107px;
+}
+.services1{
+    width: 20%;
+    float: left;
+    margin-left: 68px;
+    text-align: center;
+    color: #EAE5ED;
+}
+.services2{
+    width: 20%;
+    height: 300px;
+    float: left;
+    margin: 1px;
+    color: #EAE5ED;
+    text-align: center;
+}
+.services3{
+    width: 20%;
+    float: left;
+    margin: 1px;
+    color: #EAE5ED;
+    text-align: center;
+}
+.services4{
+    width: 20%;
+    float: left;
+    margin: 1px;
+    color: #EAE5ED;
+    text-align: center;
+}
+/*bg2 end*/
+
+
+.bg3{
+    width: 100%;
+    height: 914px;
+    background-color: #E7F1F8;
+    
+}
+.text2{
+    width: 100%;
+    padding: 59px 0px 0px 0px;
+    text-align: center;
+    font-family: "Titillium Web",sans-serif;
+    font-weight: normal;
+}
+.team{width: 100%;
+    margin-top: 91px;
+    font-family: "Titillium Web",sans-serif;
+    font-weight: normal;
+}
+.team1{
+   width: 20%;
+   float: left;
+   text-align: center;
+   margin-left: 104px;
+
+}
+.team2{
+    width: 20%;
+   float: left;
+   text-align: center;
+
+}
+.team3{
+    width: 20%;
+   float: left;
+   text-align: center;
+
+}
+.team4{
+    width: 20%;
+   float: left;
+   text-align: center;
+
+}
+/*  (no need this)
+.icon{
+    width: 100%;
+    float: left;
+}
+.icon1{
+    width: 20%;
+    float: left;
+    margin-left: 180px;
+}
+
+.icon2{
+    width: 20%;
+    float: left;
+}
+.icon3{
+    width: 20%;
+    float: left;
+}
+.icon4{
+    width: 20%;
+    float: left;
+}
+*/
+
+/*bg3 end*/
+
+
+.bg4{
+    width: 100%;
+    height: 655px;
+    background-color: #FFFFFF;
+}
+.skills{
+    width: 90%;
+    text-align: center;
+    margin-top: 98px;
+}
+/*bg4 end*/
+
+
+.bg5{
+    width: 100%;
+    height: 1423px;
+    background-color: #FFDD99;
+}
+.all{
+    width: 100%;
+    margin-left: 503px;
+
+}
+
+.all ul{
+    list-style: none;
+}
+.all ul li a{
+    text-decoration: none;
+    float: left;
+    margin: 4px;
+    background-color: #EBC985;
+    padding: 10px 20px;;
+    color: #393939;
+}
+.all ul li:hover a{
+    background-color: #ffffff;
+}
+
+
+.prot{
+    width: 100%;
+    margin-top: 124px;
+}
+.prot1{
+    width: 40%;
+    float: left;
+    text-align: center;
+    margin-left: 82px;
+}
+.prot2{
+width: 40%;
+float: left;
+text-align: center;
+margin-left: 33px;
+}
+.prot3{
+    width: 40%;
+    float: left;
+    text-align: center;
+    margin-left: 82px;
+    margin-top: 50px;
+}
+.prot4{
+
+    width: 40%;
+    float: left;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 33px;
+}
+.button2{
+    width: 100%;
+    float: left;
+    margin: 70px 0px 0px 500px;
+}
+/*bg5 end*/
+
+
+
+.bg6{
+    width: 100%;
+    height: 894px;
+    background-color: #D74680;
+}
+
+.text3{
+    width: 100%;
+    color: #EAE5ED;
+    text-align: center;
+    padding: 59px 0px 0px 0px;
+    font-family: "Titillium Web",sans-serif;
+    font-weight: normal;
+}
+
+.team10{
+    width: 100%;
+    margin-top: 100px;
+}
+
+.team11{
+    width: 40%;
+    float: left;
+    margin-left: 82px;
+}
+.team12{
+    width: 40%;
+    float: left;
+}
+.team13{
+    width: 40%;
+    float: left;
+    margin-top: 80px;
+    margin-left: 82px;
+}
+.team14{
+    width: 40%;
+    float: left;
+    margin-top: 80px;
+}
+.image{
+    float: left;
+}
+.image2{
+    float: left;
+}
+.image3{
+    float: left;
+}
+.image4{
+    float: left;
+}
+
+.team15{
+    float: left;
+    margin-left: 60px;
+    color: #FFFFFF;
+    font-family: "Titillium Web",sans-serif;
+    font-weight: normal;
+}
+.team16{
+    float: left;
+    margin-left: 60px;
+    color: #FFFFFF;
+    font-family: "Titillium Web",sans-serif;
+    font-weight: normal;
+}
+.team17{
+    float: left;
+    margin-left: 60px;
+    color: #FFFFFF;
+    font-family: "Titillium Web",sans-serif;
+    font-weight: normal;
+}
+.team18{
+    float: left;
+    margin-left: 60px;
+    color: #FFFFFF;
+    font-family: "Titillium Web",sans-serif;
+    font-weight: normal;
+}
+/*bg6 end*/
+
+.bg7{
+    width: 100%;
+    height: 819px;
+    background-color: #3C5499;
+}
+.inpu{
+    margin-top: 70px;
+    text-align: center;
+   
+}
+
+.tex input{
+    float: left;
+    width: 414px;
+    height: 57px;
+    color: antiquewhite;
+    border-radius: 5px;
+    background-color: #273A72;
+    margin-left: 227px;
+    font-size: 20px;
+    border: none;
+    outline: none;
+    display: block;
+}
+
+.email input{
+    float: left;
+    width: 414px;
+    height: 57px;
+    color: antiquewhite;
+    border-radius: 5px;
+    background-color: #273A72;
+    margin-left: 41px;
+    font-size: 20px;
+    border: none;
+    outline: none;
+    display: block;
+}
+
+.inpu textarea{
+    width: 880px;
+    height: 200px;
+    color: antiquewhite;
+    border-radius: 5px;
+    background-color: #273A72;
+    margin-top: 40px;
+    font-size: 20px;
+    border: none;
+    outline: none;
+   
+}
+/*bg7 end*/
+
+
+.bg8{
+    width: 100%;
+    height: 112px;
+    background-color: #344B8E;
+   
+    margin-top: 16px;
+    
+}
+.site{
+    width: 91%;
+    margin: -16px 0px 0px 108px;
+    padding: 1px;
+
+}
+.site ul{
+    list-style: none;
+   
+}
+.site ul li a{
+display: block;
+float: left;
+padding: 20px;
+margin: 10px;
+color: #EAE5ED;
+text-decoration: none;
+font-weight: normal;
+font-family: "Titillium Web",sans-serif;
+font-size: 19pt;
+
+}
+.site ul li:hover a{
+    color: #30BAE7;
+}
+/*bg8 end*/
